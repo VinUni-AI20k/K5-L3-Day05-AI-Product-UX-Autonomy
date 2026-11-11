@@ -36,6 +36,7 @@
 | `02-guide.md` | Hướng dẫn 6 chặng + demo, mỗi chặng mở bằng các câu hỏi nhóm phải tự trả lời |
 | `03-spec-template.md` | Dàn ý bài nộp: mỗi mục cần bằng chứng gì, lập luận gì |
 | `04-rubric.md` | Rubric 100 điểm + bonus, và checklist TA xác minh ba mốc |
+| `05-ta-notes.md` | Ghi chú cho TA (không bắt buộc): gọi tên lỗi, case sự cố thật, quy định Việt Nam |
 | `tracks/` | **5 track**, cùng một khung mục: T1 Y tế · T2 Giáo dục · T3 Du lịch · T4 Thương mại điện tử · T5 Ví điện tử. Mỗi track có sản phẩm thật để tham khảo, lát cắt, những việc AI có thể làm (tool), tin mồi |
 | `prototype-sample/` | Prototype mẫu của giảng viên (track Du lịch): một ca ở ba mức tự chủ. Mở `index.html` bằng trình duyệt. Xem để biết "đủ" trông thế nào — đừng chép giao diện |
 
