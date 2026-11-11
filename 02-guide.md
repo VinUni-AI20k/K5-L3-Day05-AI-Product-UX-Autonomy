@@ -87,7 +87,7 @@ Với lát cắt của nhóm, nghĩ đủ bốn đường: **happy path** · **l
 
 ## 3.3 Nguyên tắc HAX/PAIR — chọn 2–3, mỗi cái trỏ vào chỗ cụ thể
 
-- **G1 — Làm rõ hệ thống làm được gì.** · **G2 — Làm rõ nó làm tốt đến đâu.** (Tại Việt Nam, Luật Trí tuệ nhân tạo 134/2025/QH15, hiệu lực 01/3/2026, yêu cầu hệ thống AI tương tác trực tiếp cho người dùng biết họ đang làm việc với AI.)
+- **G1 — Làm rõ hệ thống làm được gì.** · **G2 — Làm rõ nó làm tốt đến đâu.** (Tại Việt Nam, Điều 11 khoản 1 Luật Trí tuệ nhân tạo 134/2025/QH15 — trách nhiệm minh bạch, hiệu lực 01/3/2026 — yêu cầu hệ thống AI tương tác trực tiếp cho người dùng biết họ đang làm việc với AI; xem [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm).)
 - **G10 — Thu hẹp phạm vi khi nghi ngờ.** Không chắc → hỏi lại một câu, hoặc trả lời kèm giới hạn — không làm liều.
 - **G8 — Gạt bỏ dễ dàng.** · **G9 — Sửa dễ dàng.** · **G11 — Giải thích vì sao.**
 - **G15 — Mời feedback chi tiết** ("sai chỗ nào?").
@@ -119,11 +119,7 @@ Viết như sau: "**G10** → câu AI nói ở kịch bản 1: hỏi lại 'bạ
 
 Lý do viết theo cost-of-error: *sai thì ai chịu gì, sửa đắt hay rẻ* — không viết "vì tiện", không viết "vì AI giỏi".
 
-Ba điều kiểm nhanh trước khi chốt:
-
-- Tool đặt **cần người duyệt** thì ghi đủ: **ai** duyệt (khách hay nhân viên nào) · người duyệt **thấy gì** trước khi bấm (bản soạn sẵn, căn cứ AI dựa vào) · **quá hạn** không ai duyệt thì sao (huỷ, giữ, hay chuyển người). Thiếu ý nào thì bước duyệt dễ thành bấm cho qua.
-- Tool **không đảo lại được** (hoặc rất khó đảo) mà đặt **tự làm** thì phải có lý do rất mạnh (chờ người đắt hơn cả cái sai không sửa được). Phần lớn trường hợp đây là chỗ đặt sai.
-- Luật thêm chỉ được **siết** mức, không được nới (ví dụ: "trên 10 triệu thì chuyển sang cần người duyệt", không có "dưới X thì được tự làm việc đang bị cấm").
+Trước khi chốt, tự hỏi: với tool cần người duyệt, **ai** duyệt, người đó **thấy gì** trước khi bấm, và nếu **không ai duyệt kịp** thì chuyện gì xảy ra?
 
 ## 4.3 Làm thế nào
 
